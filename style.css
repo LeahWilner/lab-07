@@ -53,6 +53,8 @@ background-color: rgb(224,206,209);
 .class test {
 background-color: coral;
 }
+
+
 .lowerPics{
     display: inline-block;
     max-width: 30%;
